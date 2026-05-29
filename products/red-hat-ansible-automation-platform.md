@@ -40,6 +40,19 @@ identifiers:
     - cpe: cpe:2.3:a:redhat:ansible_automation_platform
 
 releases:
+  - releaseCycle: "2.7"
+    releaseDate: 2026-06-03
+    eoas: 2026-10-01
+    eol: 2027-10-01
+    eoes: 2028-10-01
+    ansibleCoreVersion: "2.16"
+    aapPLatformUIVersion: "2.7.0"
+    automationControllerVersion: "4.8"
+    automationHubVersion: "4.12.0"
+    eventDrivenAnsibleVersion: "1.3.1"
+    platformGatewayVersion: "2.7.20260603"
+    link: https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.6/html/release_notes/patch_releases
+
   - releaseCycle: "2.6"
     releaseDate: 2025-10-01
     eoas: 2026-10-01
@@ -47,9 +60,9 @@ releases:
     eoes: 2028-10-01
     ansibleCoreVersion: "2.16"
     aapPLatformUIVersion: "2.6.1"
-    automationControllerVersion: "4.7.10"
-    automationHubVersion: "4.11.7"
-    eventDrivenAnsibleVersion: "1.2.7"
+    automationControllerVersion: "4.7.11"
+    automationHubVersion: "4.11.8"
+    eventDrivenAnsibleVersion: "1.2.8"
     platformGatewayVersion: "2.6.20251001"
     link: https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.6/html/release_notes/patch_releases
 
@@ -60,9 +73,9 @@ releases:
     eoes: 2027-10-02
     ansibleCoreVersion: "2.16"
     aapPLatformUIVersion: "1.1"
-    automationControllerVersion: "4.6.27"
-    automationHubVersion: "4.10.13"
-    eventDrivenAnsibleVersion: "1.1.17"
+    automationControllerVersion: "4.6.28"
+    automationHubVersion: "4.10.14"
+    eventDrivenAnsibleVersion: "1.1.18"
     platformGatewayVersion: "N/A"
     link: https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.5/html/release_notes/patch_releases
 
@@ -73,9 +86,9 @@ releases:
     eoes: 2026-06-30
     ansibleCoreVersion: "2.15"
     aapPLatformUIVersion: "N/A"
-    automationControllerVersion: "4.5.30"
-    automationHubVersion: "4.9.5"
-    eventDrivenAnsibleVersion: "1.0.8"
+    automationControllerVersion: "4.5.33"
+    automationHubVersion: "4.9.8"
+    eventDrivenAnsibleVersion: "1.0.11"
     platformGatewayVersion: "N/A"
     link: https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.4/html/red_hat_ansible_automation_platform_release_notes/asynchronous_updates
 
